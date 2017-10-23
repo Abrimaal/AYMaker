@@ -1,0 +1,13 @@
+AY Maker / AY Splittr 1.0
+
+initial version by Sergey Bulba
+
+AY Maker / AY Splittr 1.1
+
+modified by Abrimaal
+changes: the field FadeLength replaced with SysPresets, to be used for hardware identification
+
+AY Maker 1.2
+
+modified by Bastian Pflieger
+changes: FirstSong value may be greater than the number of songs. To be used for ABC / ACB (bit 7) and other switches.
